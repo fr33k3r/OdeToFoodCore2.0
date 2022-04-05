@@ -3,8 +3,9 @@
   "name": "odetofood",
   "private": true,
   "devDependencies": {
+    "bootstrap": ">=3.4.1"
   },
   "dependencies": {
-    "bootstrap" : "3.3.7"
+    "bootstrap": ">=3.4.1"
   }
 }
